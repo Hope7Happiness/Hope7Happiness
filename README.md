@@ -2,7 +2,7 @@
 - 👀 I’m interested in the things I am interested in.
 - 🌱 I’m currently learning what I am learning.
 - 💞️ I’m looking to collaborate on the projects that I can collaborate on.
-- 📫 How to reach me: by reaching iut to me.
+- 📫 How to reach me: by reaching out to me.
 - ⚡ Fun fact: I have no fun facts.
 
 <!---
